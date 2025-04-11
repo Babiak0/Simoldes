@@ -12,7 +12,7 @@ body{
     display: flex; /* centraliza ou alinha itens vertical e horizontalmente de maneira simples*/
     justify-content: center; /* Centraliza os itens horizontalmente */
     align-items: center; /*Centraliza os itens verticalmente */
-    background-color: #000000b7;
+    background-color: #000000dc;
 }
 
 /* div principal*/
